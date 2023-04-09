@@ -10,4 +10,8 @@ public interface ProdutoRepository<T, ID> {
     T update(T produto);
     void delete(T produto);
     void deleteAll();
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0376efb8b675d7f7d268ccac8089402a44ca1a6b
